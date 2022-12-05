@@ -1,6 +1,6 @@
 ## Name Conversion (Javascript Assignment-02)  
-[Live Link]()
+[Live Link](https://nameconversion02.netlify.app/)
 
 **Name:** Aniket Shahare
 
-![image](/Image/Name_Conversion.png)
+![image](/Image/nameConversion.png)
